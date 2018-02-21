@@ -1,8 +1,9 @@
 # Authors 
 Paolo Fraccaro
+John Smith
 
 #Title
-Secondary organic aerosol measurements over West Africa.
+Model-measurement comparison of secondary organic aerosol measurements over West Africa.
 
 #Introduction
 We present measurements of SOA from aircraft over west Africa.
