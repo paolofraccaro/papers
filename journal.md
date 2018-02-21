@@ -2,7 +2,7 @@
 Paolo Fraccaro
 
 #Title
-Secondary organic aerosol measurements over West Africa.
+Secondary organic aerosol measurements over West Africa from aircraft.
 
 #Introduction
 We present measurements of SOA from aircraft over west Africa.
