@@ -6,3 +6,4 @@ Secondary organic aerosol measurements over West Africa.
 
 #Introduction
 We present measurements of SOA from aircraft over west Africa.
+J. Bloggs et already took some measurements. 
